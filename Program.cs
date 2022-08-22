@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+// Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+//14212 -> нет
+//12821 -> да
+//23432 -> да
+
+Console.Write("Введите число :");
+int number = int.Parse(Console.ReadLine());
+// нужно сравнить первую цифру и пятую цифру, вторую цифру и четвертую цифру, тогда полиндром
+
+//int digit1 = number; // завели переменную для 1 цифры
+
+for (int i = 1; i <= 5; i++)
+{
+    int number = number % 10;
+    Console.WriteLine($"{i} цифра в числе {number}")
+}

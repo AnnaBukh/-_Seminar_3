@@ -1,0 +1,15 @@
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\bin\Debug\net6.0\HW#21.exe
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\bin\Debug\net6.0\HW#21.deps.json
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\bin\Debug\net6.0\HW#21.runtimeconfig.json
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\bin\Debug\net6.0\HW#21.dll
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\bin\Debug\net6.0\HW#21.pdb
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\obj\Debug\net6.0\HW#21.csproj.AssemblyReference.cache
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\obj\Debug\net6.0\HW#21.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\obj\Debug\net6.0\HW#21.AssemblyInfoInputs.cache
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\obj\Debug\net6.0\HW#21.AssemblyInfo.cs
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\obj\Debug\net6.0\HW#21.csproj.CoreCompileInputs.cache
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\obj\Debug\net6.0\HW#21.dll
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\obj\Debug\net6.0\refint\HW#21.dll
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\obj\Debug\net6.0\HW#21.pdb
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\obj\Debug\net6.0\HW#21.genruntimeconfig.cache
+C:\DEV\C#_Seminar_3\HomeWork3\HW#21\obj\Debug\net6.0\ref\HW#21.dll
